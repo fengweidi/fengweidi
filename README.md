@@ -8,7 +8,7 @@
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently working in Hefei, China.
 - 💬 Ask me about Java, TypeScript and my projects on [464330686@qq.com](mailto:464330686@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle)
+- ⭐ You may like [webkettle](https://github.com/fengweidi/)
 - ⚡ Fun fact: Data Analysis📊
 
 ### 🛠 技术栈 | Tech Stack
@@ -26,8 +26,8 @@
 
 
 ### 关于我
-- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
+- [技术笔记](https://github.com/fengweidi/)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
-⭐️ From [fengweidi](https://github.com/fengweidi)
+⭐️ From [fengweidi](https://github.com/fengweidi/)
